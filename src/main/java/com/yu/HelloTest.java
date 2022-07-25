@@ -13,5 +13,6 @@ public class HelloTest {
         System.out.println("hello git 4 hot-fix");
         System.out.println("master merge test");
         System.out.println("hot-fix merge test");
+        System.out.println("push demo  test");
     }
 }
