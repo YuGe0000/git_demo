@@ -14,5 +14,6 @@ public class HelloTest {
         System.out.println("master merge test");
         System.out.println("hot-fix merge test");
         System.out.println("push demo  test");
+        System.out.println("pull demo  test");
     }
 }
